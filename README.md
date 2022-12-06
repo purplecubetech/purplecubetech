@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @purplecubetech
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Mid-Level product engineer with core expertise in the DotNet framework(C#)
+- 🌱 I have professional experience in react.js
+- 💞️ I’m looking open to collaborations...
 - 📫 How to reach me : olise.omoruyi@gmail.com
 
 <!---
